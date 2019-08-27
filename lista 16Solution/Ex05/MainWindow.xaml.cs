@@ -30,7 +30,7 @@ namespace Ex05
 			Numeros y = new Numeros(int.Parse(inicio.Text), int.Parse(fim.Text));
 			y.SetFim(int.Parse(fim.Text));
 			y.Setinicio(int.Parse(inicio.Text));
-			bool p = false;
+			bool p = false;//soulindo
 			bool i = false;
 			if (impar.IsChecked == true) { i = true; }
 			if (par.IsChecked == true) { p = true; }

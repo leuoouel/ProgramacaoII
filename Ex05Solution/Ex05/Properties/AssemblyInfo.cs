@@ -7,11 +7,11 @@ using System.Windows;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("Ex05")]
+[assembly: AssemblyTitle("ex05")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("Ex05")]
+[assembly: AssemblyProduct("ex05")]
 [assembly: AssemblyCopyright("Copyright ©  2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -32,12 +32,12 @@ using System.Windows;
 
 
 [assembly: ThemeInfo(
-	ResourceDictionaryLocation.None, //onde os dicionários de recursos de temas específicos estão localizados
-									 //(usado se algum recurso não for encontrado na página,
-									 // ou dicionários de recursos do aplicativo)
-	ResourceDictionaryLocation.SourceAssembly //onde o dicionário de recursos genéricos está localizado
-											  //(usado se algum recurso não for encontrado na página,
-											  // app, ou qualquer outro dicionário de recursos de tema específico)
+    ResourceDictionaryLocation.None, //onde os dicionários de recursos de temas específicos estão localizados
+                                     //(usado se algum recurso não for encontrado na página,
+                                     // ou dicionários de recursos do aplicativo)
+    ResourceDictionaryLocation.SourceAssembly //onde o dicionário de recursos genéricos está localizado
+                                              //(usado se algum recurso não for encontrado na página,
+                                              // app, ou qualquer outro dicionário de recursos de tema específico)
 )]
 
 

@@ -6,12 +6,12 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace Ex05
+namespace ex05
 {
-	/// <summary>
-	/// Interação lógica para App.xaml
-	/// </summary>
-	public partial class App : Application
-	{
-	}
+    /// <summary>
+    /// Interação lógica para App.xaml
+    /// </summary>
+    public partial class App : Application
+    {
+    }
 }

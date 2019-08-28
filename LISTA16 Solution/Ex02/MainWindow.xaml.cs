@@ -30,7 +30,7 @@ namespace Ex02
             Esfera x = new Esfera();
             x.SetRaio(double.Parse(raio.Text));
             area.Text = x.CalcArea().ToString();
-
+            volume.Text = x.CalcVolume().ToString();
         }
         class Esfera
         {

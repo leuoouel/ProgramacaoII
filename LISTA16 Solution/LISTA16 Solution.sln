@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04", "Ex04\Ex04.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05", "Ex05\Ex05.csproj", "{9EE9C91D-BACE-4CD2-9C04-6F7CFE979F26}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06", "..\..\..\..\..\Downloads\PEOO_2019-master\PEOO_2019-master\Lista16\Ex06\Ex06.csproj", "{FC3978A0-B235-40F9-9724-8586423D4949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{9EE9C91D-BACE-4CD2-9C04-6F7CFE979F26}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EE9C91D-BACE-4CD2-9C04-6F7CFE979F26}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EE9C91D-BACE-4CD2-9C04-6F7CFE979F26}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC3978A0-B235-40F9-9724-8586423D4949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3978A0-B235-40F9-9724-8586423D4949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3978A0-B235-40F9-9724-8586423D4949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3978A0-B235-40F9-9724-8586423D4949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

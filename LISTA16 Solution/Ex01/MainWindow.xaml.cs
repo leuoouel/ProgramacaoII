@@ -31,31 +31,32 @@ namespace Ex01
             x.SetDistancia(double.Parse(d.Text));
             x.SetTempo(double.Parse(t.Text));
             v.Text = x.CalcVelocidade().ToString();
+
         }
         class Viagem
         {
-            private double Distancia;
-            private double Tempo;
+            private double distancia;
+            private double tempo;
 
             public void SetDistancia(double v)
             {
-                Distancia = v;
+                distancia = v;
             }
             public void SetTempo(double v)
             {
-                Tempo = v;
+                tempo = v;
             }
             public double GetDistancia()
             {
-                return Distancia;
+                return distancia;
             }
             public double GetTempo()
             {
-                return Tempo;
+                return tempo;
             }
             public double CalcVelocidade()
             {
-                return Distancia / Tempo;
+                return distancia / tempo;
             }
         }
     }

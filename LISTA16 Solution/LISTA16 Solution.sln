@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex06", "..\..\..\..\..\Desk
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex07", "..\..\..\..\..\Desktop\Programacao-II-master\Lista 16\Ex07\Ex07.csproj", "{68C2D4A2-2BC4-42E0-934E-04D2ED7F3076}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex08", "..\..\..\..\..\Desktop\Programacao-II-master\Lista 16\Ex08\Ex08.csproj", "{43454809-3F58-4BBF-9A0D-46250CCA0560}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{68C2D4A2-2BC4-42E0-934E-04D2ED7F3076}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68C2D4A2-2BC4-42E0-934E-04D2ED7F3076}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68C2D4A2-2BC4-42E0-934E-04D2ED7F3076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43454809-3F58-4BBF-9A0D-46250CCA0560}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43454809-3F58-4BBF-9A0D-46250CCA0560}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43454809-3F58-4BBF-9A0D-46250CCA0560}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43454809-3F58-4BBF-9A0D-46250CCA0560}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
